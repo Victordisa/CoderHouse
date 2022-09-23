@@ -1,0 +1,105 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+header p {
+    line-height: 200px;
+    margin-left: 80%;
+    height: 50%;
+    font-size: 200%;
+    color: white;
+    
+}
+
+
+.contenedor{ 
+    width: 1200px;
+    height: 1000px;
+    margin:0.5em auto;
+    padding:0.5em;
+} /*#es id . es clases y sin nada una etiqueta directamente */
+
+header{
+    height: 20%;
+    background-image: url("../imagenes/candle1.jpg");
+    margin: 0.5em;
+    
+}
+
+nav {
+    height: 10%;
+    background-color: black;
+    border-radius: 1em;
+    margin: 0.5em;
+    
+}
+
+main{
+    height: 53%;
+    
+    
+}
+
+footer {
+    height: 10%;
+    background-color: black;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+section {
+    height: 95%;
+    width: 69%;
+    border-radius: 1em;
+    align-items: left;
+    margin: 0.9em;
+    display:inline-block;
+    vertical-align: top;
+}
+
+section p{
+    font-size: 15px;
+    color: black;
+}
+
+aside {
+    height: 95%;
+    width: 25%;
+    border-radius: 1em;
+    align-items: right;
+    margin: 0.9em;
+    display: inline-block;
+    
+}
+
+.a{
+    width: 90%;
+    height: 20%;
+    font-size: medium;
+    margin: 1em;
+    border-radius: 1em;
+
+}
+ul {
+    list-style-type: none;
+    word-spacing: 50px;
+    font-size: larger;
+    color: white;
+   }
+
+ a { background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;}
+
+
+   
+
+
+
